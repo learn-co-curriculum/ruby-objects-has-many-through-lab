@@ -12,7 +12,7 @@ In this lab, we'll be dealing with two sets of three classes.
 
 We have a `Song`, `Artist` and `Genre` class. Songs belong to an artist and belong to a genre. A genre has many songs and an artist has many songs. An artist has many genres through it's songs and a genre has many artists through it's songs. 
 
-We also have an `Appointment`, `Doctor` and `Patient` class. Appointments belong to a patient and to a doctor. A doctor has many appointments and a patient has many appointments. A doctor has many patients through it's appointments and a patient has many doctor's through it's appointments. 
+We also have an `Appointment`, `Doctor` and `Patient` class. Appointments belong to a patient and to a doctor. A doctor has many appointments and a patient has many appointments. A doctor has many patients through it's appointments and a patient has many doctors through it's appointments. 
 
 ## Instructions
 
